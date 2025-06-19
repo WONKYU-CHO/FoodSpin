@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: FoodSpin
+description: FoodSpin Privacy Policy and Documentation
+encoding: UTF-8
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
